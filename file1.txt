@@ -1,1 +1,2 @@
 my first message
+second line on first file
