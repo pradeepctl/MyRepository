@@ -1,2 +1,3 @@
 message on thirdfile
 second message on third file
+third line on third file
